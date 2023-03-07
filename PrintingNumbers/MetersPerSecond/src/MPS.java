@@ -11,7 +11,5 @@ public class MPS
         System.out.print("You traveled at a velocity of: ");
         System.out.print(mps);
         System.out.println(" m/s");
-
-
     }
 }

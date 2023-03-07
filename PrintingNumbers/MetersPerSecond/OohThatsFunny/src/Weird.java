@@ -9,6 +9,8 @@ public class Weird
         //for example, width is worth 20 right now
         width = 30;
         width = width + 10;
-        //now with is 40 because the last thing "mentioned" was width=30 and the 30+10
+        System.out.println(width);
+        //now width is 40 because the last thing "mentioned" was width=30 and then 30+10
+        //how weird... im never gonna use that :)
     }
 }
