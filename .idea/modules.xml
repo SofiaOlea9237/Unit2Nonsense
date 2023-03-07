@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PrintingNumbers/MetersPerSecond/Cube/CubeVolume.iml" filepath="$PROJECT_DIR$/PrintingNumbers/MetersPerSecond/Cube/CubeVolume.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PrintingNumbers/MetersPerSecond/MetersPerSecond.iml" filepath="$PROJECT_DIR$/PrintingNumbers/MetersPerSecond/MetersPerSecond.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PrintingNumbers/MetersPerSecond/OohThatsFunny/OohThatsFunny.iml" filepath="$PROJECT_DIR$/PrintingNumbers/MetersPerSecond/OohThatsFunny/OohThatsFunny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cube/CubeVolume.iml" filepath="$PROJECT_DIR$/Cube/CubeVolume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetersPerSecond/MetersPerSecond.iml" filepath="$PROJECT_DIR$/MetersPerSecond/MetersPerSecond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OohThatsFunny/OohThatsFunny.iml" filepath="$PROJECT_DIR$/OohThatsFunny/OohThatsFunny.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintingNumbers/PrintingNumbers.iml" filepath="$PROJECT_DIR$/PrintingNumbers/PrintingNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit2Nonsense.iml" filepath="$PROJECT_DIR$/Unit2Nonsense.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PrintingNumbers/MetersPerSecond/Cube/Var/Var.iml" filepath="$PROJECT_DIR$/PrintingNumbers/MetersPerSecond/Cube/Var/Var.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Var/Var.iml" filepath="$PROJECT_DIR$/Var/Var.iml" />
     </modules>
   </component>
 </project>
