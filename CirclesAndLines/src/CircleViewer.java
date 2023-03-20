@@ -1,18 +1,18 @@
 import javax.swing.*;
 
-public class RectangleWithColorViewer
+public class CircleViewer
 {
     public static void main(String[] args)
     {
         JFrame frame = new JFrame();
         frame.setSize(300, 300);
-        frame.setTitle("Green rectangles");
+        frame.setTitle("Just a circle");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
 
-        RectangleWithColor component = new RectangleWithColor();
+        Circle component = new Circle();
         frame.add(component);
 
         frame.setVisible(true);
     }
 }
+

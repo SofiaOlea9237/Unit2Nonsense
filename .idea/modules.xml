@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CirclesAndLines/CirclesAndLines.iml" filepath="$PROJECT_DIR$/CirclesAndLines/CirclesAndLines.iml" />
       <module fileurl="file://$PROJECT_DIR$/Colors/Colors.iml" filepath="$PROJECT_DIR$/Colors/Colors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cube/CubeVolume.iml" filepath="$PROJECT_DIR$/Cube/CubeVolume.iml" />
       <module fileurl="file://$PROJECT_DIR$/FramesAndRectangles/FramesAndRectangles.iml" filepath="$PROJECT_DIR$/FramesAndRectangles/FramesAndRectangles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LilGuy/LilGuy.iml" filepath="$PROJECT_DIR$/LilGuy/LilGuy.iml" />
       <module fileurl="file://$PROJECT_DIR$/MetersPerSecond/MetersPerSecond.iml" filepath="$PROJECT_DIR$/MetersPerSecond/MetersPerSecond.iml" />
       <module fileurl="file://$PROJECT_DIR$/OohThatsFunny/OohThatsFunny.iml" filepath="$PROJECT_DIR$/OohThatsFunny/OohThatsFunny.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlayingWithWords/PlayingWithWords.iml" filepath="$PROJECT_DIR$/PlayingWithWords/PlayingWithWords.iml" />

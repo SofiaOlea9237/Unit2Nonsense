@@ -1,16 +1,17 @@
 import javax.swing.*;
+import java.awt.*;
+import java.awt.geom.Line2D;
 
-public class RectangleWithColorViewer
+public class LineViewer
 {
     public static void main(String[] args)
     {
         JFrame frame = new JFrame();
         frame.setSize(300, 300);
-        frame.setTitle("Green rectangles");
+        frame.setTitle("Just lines");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
 
-        RectangleWithColor component = new RectangleWithColor();
+        Line component = new Line();
         frame.add(component);
 
         frame.setVisible(true);
